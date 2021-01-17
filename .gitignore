@@ -1,0 +1,8 @@
+__pycache__/
+*.json
+*.tar
+*.tar.gz
+*.tgz
+
+test.py
+notes
